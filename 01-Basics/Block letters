@@ -1,0 +1,14 @@
+//hehehe manan here
+include <iostream>
+int main(){
+std::cout<<"TTTTT\n";
+std::cout<<"  T  \n";
+std::cout<<"  T  \n";
+std::cout<<"  T  \n";
+std::cout<<"  T  \n";
+std::cout<<"N     N\n";
+std::cout<<"NN    N\n";
+std::cout<<"N  N  N\n";
+std::cout<<"N   N N\n";
+std::cout<<"N     N\n";
+}
