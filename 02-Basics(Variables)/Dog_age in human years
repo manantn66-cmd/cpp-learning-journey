@@ -1,0 +1,12 @@
+#include <iostream>
+
+int main() {
+  double dog;
+  std::cout<<"Enter the dog age which is more than two years: ";
+  std::cin>>dog;
+  double human;
+  human=(dog-2)*4 + 21;
+  std::cout<<"The age of dog in human years is= "<<human;
+  
+  
+}
