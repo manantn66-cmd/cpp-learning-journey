@@ -1,0 +1,15 @@
+#include <iostream>
+
+int main() {
+  int year;
+  std::cout<<"enter the year: ";
+  std::cin>>year;
+  if ((year%400==0) or (year%4==0 and year%100!=0) ){
+    std::cout<<"its a leap year";
+  }
+  else {
+    std::cout<<"NOT A LEAP YEAR";
+  }
+  }
+  
+  
